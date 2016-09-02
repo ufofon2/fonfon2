@@ -15,4 +15,11 @@
         android:src="@drawable/duck"
         />
 
+    <Button
+        android:id="@+id/btnSJ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="김선주"
+        />
+
 </LinearLayout>
