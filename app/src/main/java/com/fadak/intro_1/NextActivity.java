@@ -9,5 +9,7 @@ public class NextActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.next);
+
+        setTitle("GitHub로 수정한 액티비티");
     }
 }
