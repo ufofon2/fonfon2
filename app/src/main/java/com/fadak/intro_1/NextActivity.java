@@ -10,6 +10,6 @@ public class NextActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.next);
 
-        setTitle("GitHub로 수정한 액티비티");
+        setTitle("선민이가 수정한 액티비티");
     }
 }
